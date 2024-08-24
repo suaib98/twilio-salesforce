@@ -1,6 +1,6 @@
 .. include:: ../README.rst
 
-BROKEN LINK HIJACKING!
+SUBDOMAIN TAKEOVER BY FELCITY
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
